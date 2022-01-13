@@ -30,6 +30,7 @@ const label = (theme) => `
     font-family: ${theme.fonts.heading};
     font-size: ${theme.fontSizes.body};
     font-weight: ${theme.fontWeights.medium};
+    color: ${theme.colors.text.email}
 `;
 
 const variants = {
